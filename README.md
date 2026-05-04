@@ -19,7 +19,7 @@ A ideia é simples: ao invés de seguir o preço com lag (como uma EMA faz), o i
 
 ## Capturas de tela
 
-![Indicador plotado no USDJPY Daily — linha de regressão, bandas de confiança e dashboard institucional](docs/images/chart-overview.png)
+![Indicador plotado no USDJPY Daily — linha de regressão, bandas de confiança e dashboard institucional](chart-overview.png)
 
 _Indicador rodando em USDJPY Daily. À esquerda, dashboard com tendência atual (ALTA), regime (RANGING), força ADX e R². No gráfico, a linha azul de regressão acompanha o preço com bandas pontilhadas de confiança ao redor._
 
@@ -65,7 +65,7 @@ Painel institucional plotado no canto do gráfico mostrando: tendência atual, q
 
 ## Instalação
 
-1. Faça download do arquivo [`src/InstitutionalAdaptiveRegression.mq5`](src/InstitutionalAdaptiveRegression.mq5).
+1. Faça download do arquivo [`InstitutionalAdaptiveRegression.mq5`](InstitutionalAdaptiveRegression.mq5).
 2. No MetaTrader 5, abra **Arquivo → Abrir Pasta de Dados**.
 3. Copie o arquivo `.mq5` para a pasta `MQL5/Indicators/`.
 4. No terminal MT5, na janela **Navegador**, clique direito em **Indicadores → Atualizar**.
